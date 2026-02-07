@@ -29,7 +29,9 @@ minux eax, 3
 and more
 this is the 1.0.0 version, so expect bugs and yes, 15 keywords
 after that, run
+
 ./SMGcompiler -f yourFile.smg
+
 after that you will see the .obj
 after that, link with gcc using 
 gcc data.obj -o data.exe -nostdlib -Wl,-e,main -lkernel32
@@ -40,3 +42,6 @@ though note this!
 NEVER PULL OUT SMGCOMPILER WITHOUT NASM! u can add nasm to path, and maybe smgcompiler will like you
 well more info is in the help.md
 bye :D
+
+also, the logo was made in Paint (win 11 25H2)
+so dont be confused if it looks bad
