@@ -1,5 +1,0 @@
-include print
-glb main
-main:
-    call print, "hi"
-endmain
