@@ -45,3 +45,19 @@ bye :D
 
 also, the logo was made in Paint (win 11 25H2)
 so dont be confused if it looks bad
+
+
+
+
+
+hey!
+
+So, im going to make a version of SMG, in a different repo with BETTER and BIGGER API. 
+
+Im gonna use G++, and yeah, same idea here but this time it will take a lot more
+
+Pretty much, this version of SMG (SMGB for SMG Better) 
+
+will be just like this one but with bigger API and more control. 
+
+natural stuff.
